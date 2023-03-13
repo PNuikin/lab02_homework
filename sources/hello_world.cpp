@@ -1,6 +1,8 @@
 #include <iostream>
 #include <string>
 
+//Simple "hello world" programm
+
 int main()
 {
   std::string name;
