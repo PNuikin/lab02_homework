@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-//Simple "hello world" programm
+//Простая программа "hello_world"
 
 int main()
 {
